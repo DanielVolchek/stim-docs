@@ -1,0 +1,7 @@
+/* modify line numbers */
+.markdown-source-view.mod-cm6 .cm-gutterElement {
+  color: #808080;
+  padding-left: 2em;
+  font-size: 0.9em;
+  filter: brightness(140%);
+}

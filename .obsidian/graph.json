@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "file:",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag: #ticket",
+      "color": {
+        "a": 1,
+        "rgb": 2269243
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.359090169270833,
+  "repelStrength": 8.1005859375,
+  "linkStrength": 1,
+  "linkDistance": 500,
+  "scale": 0.689577388754608,
+  "close": false
+}

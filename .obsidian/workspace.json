@@ -1,18 +1,22 @@
 {
   "main": {
-    "id": "fc5ebbb487b8c874",
+    "id": "3c8825f682cdd336",
     "type": "split",
     "children": [
       {
-        "id": "baca560f4b283c00",
+        "id": "ba772c8ded61d86b",
         "type": "tabs",
         "children": [
           {
-            "id": "c2578706c139f52c",
+            "id": "33df51e9d69eeb79",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -21,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "24861828b3b22353",
+    "id": "5f48159588035065",
     "type": "split",
     "children": [
       {
-        "id": "5866f5ac28a304a0",
+        "id": "0b1efd7d86e2b8d3",
         "type": "tabs",
         "children": [
           {
-            "id": "df206b40c8b5deb3",
+            "id": "0f027c8abe58dbe5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +43,12 @@
             }
           },
           {
-            "id": "bdeb835ccb8de499",
+            "id": "6b9e3bb32b0768d1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#ticket",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +58,15 @@
             }
           },
           {
-            "id": "c9022cb93246d812",
+            "id": "aec1e84b9cf296f0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "75989ddcec50eb4f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -65,22 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 202.5
   },
   "right": {
-    "id": "55580817d4dd5b61",
+    "id": "4f52df0c9f15d7e9",
     "type": "split",
     "children": [
       {
-        "id": "2a20abc07ad96070",
+        "id": "4d36de6c88e7401c",
         "type": "tabs",
         "children": [
           {
-            "id": "1e7f317a331f492c",
+            "id": "428dd0a23ac147aa",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,18 +105,19 @@
             }
           },
           {
-            "id": "41892076bf9bc2f6",
+            "id": "633d99886b551cb4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "6f232b7ee3ad5d47",
+            "id": "f81b02942e058d1a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -114,19 +128,29 @@
             }
           },
           {
-            "id": "2a840a4ccfe74d79",
+            "id": "031d2682031577a0",
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "9ab6c743e7efa0cc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 383.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -138,6 +162,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2578706c139f52c",
-  "lastOpenFiles": []
+  "active": "33df51e9d69eeb79",
+  "lastOpenFiles": [
+    "StimStore/stim-docs/hotkeys.json",
+    "StimStore/stim-docs/core-plugins-migration.json",
+    "StimStore/stim-docs/themes/Typewriter/manifest.json",
+    "StimStore/stim-docs/themes/Typewriter/theme.css",
+    "StimStore/stim-docs/themes/Things/theme.css",
+    "StimStore/stim-docs/themes/Things/manifest.json",
+    "StimStore/stim-docs/themes/Sodalite/theme.css",
+    "StimStore/stim-docs/themes/Sodalite/manifest.json",
+    "StimStore/stim-docs/themes/Shimmering Focus/theme.css",
+    "StimStore/stim-docs/themes/Shimmering Focus/manifest.json",
+    "StimStore/stim-docs/themes/Prism/theme.css",
+    "Templates/Ticket_Template.md",
+    "StimStore/stim-docs/README.md",
+    "clover/Tickets/Resolved Tickets/CSI-4663.md",
+    "clover/Tickets/Resolved Tickets/CSI-4857.md",
+    "clover/Tickets/Resolved Tickets/CSI-4855.md",
+    "clover/Tickets/Resolved Tickets/CSI-4840.md",
+    "clover/Tickets/Resolved Tickets/CSI-4755.md",
+    "clover/Tickets/Active_Tickets/CSI-4519.md",
+    "clover/Tickets/Active_Tickets/CSI-4431.md",
+    "StimStore/Script.md",
+    "conflict-files-obsidian-git.md",
+    "clover/tickets.md",
+    "clover/Crash Analytics/Things to add/save filter state.md",
+    "clover/Crash Analytics/Things to add/loading or empty data component.md",
+    "clover/CS Dash/Tickets.md",
+    "clover/Crash Analytics/Things to add/Things to add.md",
+    "Untitled.md",
+    "clover/Crash Analytics/Things to add/ci_cd.md",
+    "clover/Crash Analytics/Things to add/refactor.md",
+    "clover/Crash Analytics/example request.md",
+    "clover/Crash Analytics/Meetings/06.22.23.md",
+    "clover/Crash Analytics/Things to add.md",
+    "eslint meeting.md",
+    "clover/Crash Analytics/Questions For Dan.md",
+    "clover/Crash Analytics/Links.md",
+    "_attachments/tickets/CSI-4852/Screen Shot 2023-05-16 at 1.50.02 PM.png",
+    "_attachments/tickets/CSI-4852/Screen Shot 2023-05-16 at 1.49.47 PM.png",
+    "_attachments/tickets/CSI-4857/1.1.png",
+    "_attachments/tickets/CSI-4857/1.2.png",
+    "_attachments/tickets/CSI-4855/Screenshot 2023-05-17 at 1.23.44 PM.png",
+    "_attachments/tickets/CSI-4840/fix1.png",
+    "_attachments/tickets/CSI-4840/3.3.png",
+    "_attachments/tickets/CSI-4840/3.2.png",
+    "_attachments/tickets/CSI-4840/3.1.png",
+    "_attachments/tickets/CSI-4840/2.png"
+  ]
 }
