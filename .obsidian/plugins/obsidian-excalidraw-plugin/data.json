@@ -18,7 +18,7 @@
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
-  "dynamicStyling": "colorful",
+  "dynamicStyling": "none",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
