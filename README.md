@@ -2,4 +2,4 @@
 
 This directory contains a variety of different documentation files (it will) from API specifications to high level overviews of architecture and more
 
-The best way to open 
+The best way to open the documentation is by 
