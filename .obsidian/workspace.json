@@ -11,27 +11,13 @@
             "id": "33df51e9d69eeb79",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc971afcdf9fb0a1",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "architecture/highlevel.excalidraw.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "architecture/highlevel.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "architecture/highlevel.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "architecture/highlevel.excalidraw.md"
+              }
             }
           },
           {
@@ -167,13 +157,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fc971afcdf9fb0a1",
+  "active": "33df51e9d69eeb79",
   "lastOpenFiles": [
-    "test.md",
     "README.md",
+    "architecture/highlevel.excalidraw.md",
+    "architecture/highlevel.excalidraw",
+    "test.md",
     "stim.com",
     "StimStore/stim-docs/hotkeys.json",
     "StimStore/stim-docs/core-plugins-migration.json",
@@ -183,7 +176,6 @@
     "StimStore/stim-docs/themes/Things/manifest.json",
     "StimStore/stim-docs/themes/Sodalite/theme.css",
     "StimStore/stim-docs/themes/Sodalite/manifest.json",
-    "StimStore/stim-docs/themes/Shimmering Focus/theme.css",
     "Templates/Ticket_Template.md",
     "StimStore/stim-docs/README.md",
     "clover/Tickets/Resolved Tickets/CSI-4663.md",
@@ -206,8 +198,6 @@
     "clover/Crash Analytics/Meetings/06.22.23.md",
     "clover/Crash Analytics/Things to add.md",
     "eslint meeting.md",
-    "clover/Crash Analytics/Questions For Dan.md",
-    "clover/Crash Analytics/Links.md",
     "_attachments/tickets/CSI-4852/Screen Shot 2023-05-16 at 1.50.02 PM.png",
     "_attachments/tickets/CSI-4852/Screen Shot 2023-05-16 at 1.49.47 PM.png",
     "_attachments/tickets/CSI-4857/1.1.png",
