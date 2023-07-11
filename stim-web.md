@@ -10,5 +10,5 @@ Zustand Atomic Store
 
 Stim-Web will only EVER communicate with [[stim-core|Stim-Core]]. It should never have the keys to authenticate with other services. 
 
-Stim-Web will not include a server-key. It will only authenticate with the server via user [[session tokens]]. Anonymous access routes like [[GET]]ing [[Core.Items|/items]] are acceptable without a key
+Stim-Web will not include a server-key. It will only authenticate with the server via user [[session tokens]]. Anonymous access routes like [[GET]]ing [[StimStore/stim-docs/api/core/items|/items]] are acceptable without a key
 
