@@ -3,7 +3,8 @@ tags: api, stimstore
 ---
 NOTE: If this file is not rendering a full table of APIs, please ensure [dataview](https://github.com/blacksmithgu/obsidian-dataview) is correctly installed and enabled. The easiest way to do this is by trusting the vault and enabling its plugins. This will also give you access to correctly viewing the embedded excalidraw [[highlevel.excalidraw|architecture]] 
 
-I have no idea why the tables are rendered differently, I need to look into that #todo
+I have no idea why the tables are rendered differently, I need to look into that #todo 
+- [ ] Add CSS to stimstore which enables [[Fixed Table Layout]]
 
 ```dataviewjs
 
